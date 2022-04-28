@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ca3d84e-728d-41b4-9192-ca99830432ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/RemoveElement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/company/CheckInclusion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/company/MinWindow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/company/demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/company/huiwenshu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CheckInclusion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/MinWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/huiwenshu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +28,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="26pW3TVDzYEAhE7WicpbIoxenPV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -114,6 +95,7 @@
     <option name="showModules" value="false" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -210,7 +192,8 @@
       <workItem from="1650690497068" duration="819000" />
       <workItem from="1650795493053" duration="28000" />
       <workItem from="1650854352630" duration="598000" />
-      <workItem from="1651127796141" duration="351000" />
+      <workItem from="1651127796141" duration="743000" />
+      <workItem from="1651128676701" duration="517000" />
     </task>
     <servers />
   </component>
@@ -227,5 +210,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
