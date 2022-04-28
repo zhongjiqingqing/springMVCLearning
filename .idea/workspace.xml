@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ca3d84e-728d-41b4-9192-ca99830432ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meituan/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/meituan/demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tree/levelOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/RemoveElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/RemoveElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/RemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/meituan/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/meituan/Demo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,18 +103,35 @@
     <option name="showModules" value="false" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.demo">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+  <component name="RunManager" selected="Application.levelOrder">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meituan.Demo1" />
       <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meituan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meituan.Demo2" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meituan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,19 +142,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.RemoveElement" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="huiwenshu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.huiwenshu" />
+    <configuration name="levelOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tree.levelOrder" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="com.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.levelOrder" />
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.demo" />
         <item itemvalue="Application.MinWindow" />
-        <item itemvalue="Application.huiwenshu" />
-        <item itemvalue="Application.RemoveElement" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +205,11 @@
       <workItem from="1650795493053" duration="28000" />
       <workItem from="1650854352630" duration="598000" />
       <workItem from="1651127796141" duration="743000" />
-      <workItem from="1651128676701" duration="517000" />
+      <workItem from="1651128676701" duration="3016000" />
+      <workItem from="1651131833184" duration="748000" />
+      <workItem from="1651136328428" duration="162000" />
+      <workItem from="1651136604970" duration="127000" />
+      <workItem from="1651136735232" duration="4354000" />
     </task>
     <servers />
   </component>

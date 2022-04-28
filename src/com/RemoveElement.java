@@ -17,6 +17,7 @@ public class RemoveElement {
     public static void main(String[] args) {
 
 
+
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入数组个数");
         int n = sc.nextInt();
